@@ -1,0 +1,8 @@
+colorama==0.4.4
+kociemba==1.2.1
+numpy @ file:///opt/concourse/worker/volumes/live/a1b5ea96-b05c-40ba-5dfb-4542ece1c186/volume/numpy_and_numpy_base_1603491228242/work
+opencv-python==4.4.0.46
+python-dateutil==2.8.1
+serial==0.0.97
+vpython==7.6.1
+
